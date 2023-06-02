@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\3Layer_Test_V1.props" />
+</Project>

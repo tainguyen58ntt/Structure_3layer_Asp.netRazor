@@ -1,0 +1,17 @@
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\Model.dll
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\Model.pdb
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\AllTest\3Layer_Test_V1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\AllTest\3Layer_Test_V1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
